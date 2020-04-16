@@ -1,0 +1,4 @@
+World Name: Gozedi Mountains
+Original Seed: 4164258364812894.74
+Data Export Time: 1 minutes 14 seconds
+Total Generation Time: 4 minutes 24 seconds
